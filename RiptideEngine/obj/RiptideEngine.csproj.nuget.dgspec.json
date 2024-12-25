@@ -49,6 +49,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Silk.NET.Windowing": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "VulkanSharp": {
+              "target": "Package",
+              "version": "[0.1.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

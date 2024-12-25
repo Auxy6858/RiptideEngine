@@ -6,6 +6,9 @@ public struct HitBox : IEquatable<HitBox>, IComparable<HitBox>
 {
     public Rectangle HitBoxRectangle { get; set; }
 
+
+    // COMPARATIVE OPERATOR OVERLOADS
+
     public bool Equals(HitBox other)
     {
         return HitBoxRectangle == other.HitBoxRectangle;
@@ -26,6 +29,8 @@ public struct CircleHitBox : IEquatable<CircleHitBox>, IComparable<CircleHitBox>
     {
         return ( Math.Pow(point.X - Origin.X, 2) + Math.Pow(point.Y - Origin.Y, 2) <= Math.Pow(Radius, 2) );
     }
+
+    // COMPARATIVE OPERATOR OVERLOADS
 
     public bool Equals(CircleHitBox other)
     {
