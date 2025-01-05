@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiptideEngine", "RiptideEngine\RiptideEngine.csproj", "{217ADB17-2831-4B8F-88DD-4305719C3C6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiptideEngineCore", "RiptideEngineCore\RiptideEngineCore.csproj", "{217ADB17-2831-4B8F-88DD-4305719C3C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiptideGUI", "RiptideGUI\RiptideGUI.csproj", "{95AF3B4A-CE1A-4BB9-9994-F09B66C8C224}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{217ADB17-2831-4B8F-88DD-4305719C3C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{217ADB17-2831-4B8F-88DD-4305719C3C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{217ADB17-2831-4B8F-88DD-4305719C3C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AF3B4A-CE1A-4BB9-9994-F09B66C8C224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AF3B4A-CE1A-4BB9-9994-F09B66C8C224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AF3B4A-CE1A-4BB9-9994-F09B66C8C224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AF3B4A-CE1A-4BB9-9994-F09B66C8C224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

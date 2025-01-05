@@ -4,6 +4,7 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>RiptideEngine</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -14,7 +15,6 @@
 
     <ItemGroup>
       <PackageReference Include="Silk.NET.Windowing" Version="2.22.0" />
-      <PackageReference Include="VulkanSharp" Version="0.1.10" />
     </ItemGroup>
 
 </Project>
