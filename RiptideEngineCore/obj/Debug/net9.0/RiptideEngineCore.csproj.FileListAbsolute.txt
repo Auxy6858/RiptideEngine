@@ -1,0 +1,15 @@
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/bin/Debug/net9.0/RiptideEngineCore.deps.json
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/bin/Debug/net9.0/RiptideEngineCore.dll
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/bin/Debug/net9.0/RiptideEngineCore.pdb
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/bin/Debug/net9.0/FNA.dll
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideEngineCore.csproj.AssemblyReference.cache
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideEngineCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideEngineCore.AssemblyInfoInputs.cache
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideEngineCore.AssemblyInfo.cs
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideEngineCore.csproj.CoreCompileInputs.cache
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideEngineCore.sourcelink.json
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideE.AB7EC27E.Up2Date
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideEngineCore.dll
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/refint/RiptideEngineCore.dll
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/RiptideEngineCore.pdb
+/Users/cameronbaybut/RiderProjects/RiptideEngine/RiptideEngineCore/obj/Debug/net9.0/ref/RiptideEngineCore.dll
