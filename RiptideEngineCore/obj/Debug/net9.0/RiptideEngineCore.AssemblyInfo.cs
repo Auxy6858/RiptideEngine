@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RiptideEngineCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8d8b62ea843072930a27bbaf2abc17a0ace0bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fddf3f33facacaea350c56b6d1aec1460a83cc32")]
 [assembly: System.Reflection.AssemblyProductAttribute("RiptideEngineCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RiptideEngineCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
